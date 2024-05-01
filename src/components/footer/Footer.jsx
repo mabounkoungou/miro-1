@@ -69,7 +69,7 @@ function Footer() {
         <div className="bottom">
           <div className="left">
             <h2>miro</h2>
-            <span>© miro International Ltd. 2023</span>
+            <span>© miro International Ltd. 2024</span>
           </div>
           <div className="right">
             <div className="social">
