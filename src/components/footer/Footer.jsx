@@ -34,8 +34,8 @@ function Footer() {
             <h2>Support</h2>
             <span>Help & Support</span>
             <span>Trust & Safety</span>
-            <span>Selling on Liverr</span>
-            <span>Buying on Liverr</span>
+            <span>Selling on miro</span>
+            <span>Buying on miro</span>
           </div>
           <div className="item">
             <h2>Community</h2>
@@ -53,14 +53,14 @@ function Footer() {
           </div>
           <div className="item">
             <h2>More From Fiverr</h2>
-            <span>Liverr Business</span>
-            <span>Liverr Pro</span>
-            <span>Liverr Logo Maker</span>
-            <span>Liverr Guides</span>
+            <span>miro Business</span>
+            <span>miro Pro</span>
+            <span>miro Logo Maker</span>
+            <span>miro Guides</span>
             <span>Get Inspired</span>
-            <span>Liverr Select</span>
+            <span>miro Select</span>
             <span>ClearVoice</span>
-            <span>Liverr Workspace</span>
+            <span>miro Workspace</span>
             <span>Learn</span>
             <span>Working Not Working</span>
           </div>
@@ -68,8 +68,8 @@ function Footer() {
         <hr />
         <div className="bottom">
           <div className="left">
-            <h2>liverr</h2>
-            <span>© Liverr International Ltd. 2023</span>
+            <h2>miro</h2>
+            <span>© miro International Ltd. 2023</span>
           </div>
           <div className="right">
             <div className="social">
